@@ -1,4 +1,4 @@
-# haven#hex - Supply Chain Management with Crowdfunding
+# Haven#hex - Supply Chain Management with Crowdfunding
 
 Welcome to haven#hex, a blockchain-based supply chain management system with an integrated crowdfunding feature. Designed to support NGOs and other organizations in their efforts to assist the needy, this project was developed for the DEFY24 competition.
 
